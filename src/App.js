@@ -20,7 +20,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <footer>©The Undecover Project 2024</footer>
+      <footer>©The Undecover Project-2024</footer>
     </div>
   );
 }
